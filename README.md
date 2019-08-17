@@ -1,4 +1,4 @@
-# DATA-Project-2
+# DATA-ETL-Project
 Group Members: Veena, Sasha, William
 
 Project Proposal:
